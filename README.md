@@ -4,7 +4,7 @@ This is a clean todo app made in django for devops purpose mainly to showcase CI
 # django-todo
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/MeetJainAi/django-todo-app/develop/staticfiles/todoApp.png)
+![todo App](https://github.com/MeetJainAi/django-todo-app/blob/main/staticfiles/todoApp.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
